@@ -1,3 +1,4 @@
+❗️❗️❗️ Please note this repository is not an official arm software product, please refer to https://github.com/ARM-software/AVH-TFLmicrospeech for latest update. This is only used for personal use.
 
 # Micro speech example for TensorFlow Lite
 
